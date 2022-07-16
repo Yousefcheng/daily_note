@@ -4,7 +4,7 @@
 
 ## conda基础命令
 
-### conda 列出环境
+### conda 列出环境 
 
 ```
 conda env list 
@@ -27,7 +27,7 @@ conda init bash
 ### conda 选择虚拟环境
 
 ```
-conda activate
+conda activat
 ```
 
 ### conda导入和导入环境
@@ -39,7 +39,7 @@ conda env export > 文件路径/文件名称.yaml
 ```bash
 conda env create -f 文件
 ```
-
+  
 ## conda 改源
 
 官网https://mirror.tuna.tsinghua.edu.cn/help/anaconda/
